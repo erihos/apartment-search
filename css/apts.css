@@ -1,0 +1,28 @@
+body{
+	background-color: azure;
+	font-family: sans-serif;
+	font-size: 1rem;
+	padding: 2rem;
+}
+
+#container{
+	background-color: #EEE;
+	border: 2px solid #AAA;
+	padding: 2rem;
+	margin: 1rem auto;
+	width: 600px;
+	
+	
+}
+
+select, input {
+    font-size: 1rem;
+    padding: 5px;
+    width: 150px;
+    margin: 5px;
+}
+
+.cbw{ /* cbw = CheckBox With - for checkbox */
+	width: 30px;
+}
+
